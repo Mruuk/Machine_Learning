@@ -15,4 +15,4 @@ Vamos trabalhar com o algoritmo Naive bayes
 - Naive Bayes com skikit-learn $\rightarrow$ [base crédito](7%20-%20base%20cr%C3%A9dito.md)
 - Naive Bayes com skikit-learn $\rightarrow$ [base censo](8%20-%20base%20censo.md)
 
-[Continua](1%20-%20introdu%C3%A7%C3%A3o%20-%20naive%20bayes.md) $\rightarrow$
+[Continua](1%20-%20introdu%C3%A7%C3%A3o%20-%20naive%20bayes.md) $\Rightarrow$

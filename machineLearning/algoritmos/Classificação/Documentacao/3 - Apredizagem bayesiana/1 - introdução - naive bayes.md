@@ -22,4 +22,4 @@
 
 > A ideia é utilizar essa tabela para efetuar a classificação
 
-[Continua $\rightarrow$](2%20-%20aprendizagem.md)
+[Continua](2%20-%20aprendizagem.md) $\Rightarrow$

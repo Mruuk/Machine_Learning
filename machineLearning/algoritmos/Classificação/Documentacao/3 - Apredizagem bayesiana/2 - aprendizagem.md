@@ -123,4 +123,4 @@
 
 > O que precisa ficar claro é que a aprendizagem de máquina nesse algoritmo é apenas isso, pegar essa tabela original e os dados históricos e ele vai fazer essas estatística básicas para montar a aprendizagem. Básicamente ele vai gerar essa tabela de probabilidade
 
-[Continua $\rightarrow$](3%20-%20classifica%C3%A7%C3%A3o.md)
+[Continua](3%20-%20classifica%C3%A7%C3%A3o.md) $\Rightarrow$

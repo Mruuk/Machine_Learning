@@ -75,3 +75,5 @@ $P(Alto) = 0,0079/0,0645 \; \cdot \; 100 = 12,24$ **%**
 $P(Moderado) = 0,0052/0,0645 \; \cdot \; 100 = 8,06$ **%**
 
 $P(Baixo) = 0,0514/0,0645 \; \cdot \; 100 = 79,68$ **%**
+
+[Continua](4%20-%20corre%C3%A7%C3%A3o%20laplaciana.md) $\Rightarrow$

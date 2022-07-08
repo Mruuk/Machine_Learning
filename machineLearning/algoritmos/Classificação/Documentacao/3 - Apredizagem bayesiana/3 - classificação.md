@@ -37,16 +37,19 @@ E o que vamos fazer é  selecionar somente as partes dessa tabela de acordo com 
 Agora faremos as estimativas  de probabilidade para cada classe
 
 1. Começaremos com a classe alto
+
     $P(Alto) = 6/14 \cdot  1/6  \cdot  4/6  \cdot  6/6  \cdot  1/6$
 
     $P(Alto) = 0,0079$
     > vamos simplemente multiplicar cada uma das probabilidade, e esse valor indica o risco de crédito ser alto para esse cliente, mas não podemos tomar uma decisão ainda, pois precisamos fazer as estimativas para o moderado e o risco baixo
 2. Calculamos a estimativa do risco moderado
+
     $P(moderado) = 3/14 \cdot  1/3  \cdot  1/3  \cdot  2/3  \cdot  1/3$
 
     $P(moderado) = 0,0052$
 
 3. Calculamos a estimativa do risco baixo
+
     $P(baixo) = 5/14 \cdot  3/5  \cdot  2/5  \cdot  3/5  \cdot  5/5$
 
     $P(baixo) = 0,0514$

@@ -43,7 +43,7 @@ $P'(azul) = 1/5$
 
 Essas probalilidades são chamada de **Probabilidades a priori**
 
-Onde seu significado indica, que já conhece com antecedência, somente analisando a base de dados, consegui-se chegar a essas [conclusões](#probabilidades-apriori)
+Onde seu significado indica, que já conhece com antecedência, somente analisando a base de dados, consegui-se chegar a essas [conclusões](#probabilidades-a-priori)
 
 ---
 
@@ -86,7 +86,7 @@ veremos as vantagens e desvantagens do algoritmo naive bayes:
     - É muito fácil realizar as estimativas de probabilidade, baseado nos valores da tabela da aprendizagem
   - Trabalha com altas dimensões
     - Altas dimensões, significa, com muitos atributos, possui um bom desempenho e consegue de certa forma generalizar bem e aprender bem, utilizando vários atributos
-  - Boas previsões em bases pequenas 
+  - Boas previsões em bases pequenas
     - Consegue também, realizar boas previsões em bases de dados pequenas, quando falamos pequena, não significa usar uma base de dados de 14 registros, mas sim uma com 200, 300 ou 400 registros
 - Desvantagens:
   - Combinação de características(atributos independentes) - cata par de características são independentes - nem sempre é verdade

@@ -126,7 +126,7 @@ Cliente 2 |  ruim | alta | adequada | <15
 
 Entendido isso, vamos realizar nossa previsão.
 
-para isso, precisamos entender a correlação feita pelo `LabeleEcoder`, descobrir para cada característica, qual número foi atribuido. Basta visualizar a ordem dos atributos de antes do `LabelEncoder`.
+para isso, precisamos entender a correlação feita pelo `LabelEcoder`, descobrir para cada característica, qual número foi atribuido. Basta visualizar a ordem dos atributos de antes do `LabelEncoder`.
 
 ![previsores](img/previsores.png)
 ![previsores_labelencoder](img/previsores_labelencoder.png)

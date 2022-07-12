@@ -1,6 +1,6 @@
 # Base census
 
-Vamos começar importanto o arquivo pkl gerado [anteriormente](machineLearning/algoritmos/Classificação/Documentacao/2 - censo-data/7 - Salvar as bases de dados.md).
+Vamos começar importanto o arquivo pkl gerado [anteriormente](https://github.com/Mruuk/Machine_Learning/blob/master/machineLearning/algoritmos/Classifica%C3%A7%C3%A3o/Documentacao/2%20-%20censo-data/7%20-%20Salvar%20as%20bases%20de%20dados.md).
 
 Para isso importamos o pickle, e fazemos uma leitura do arquivo desejado usando o parâmetro `rb`, e criamos as variaveis necessárias:
 

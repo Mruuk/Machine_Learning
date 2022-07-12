@@ -73,3 +73,5 @@ print(classification_report(y_census_teste, previsoes))
 Vamos realizar uma analise do recall e do precision:
 
 - O algoritmo consegue identificar 97% dos registros que ganham mais do que 50 mil, e quanto ele identifica esses registros, a precisão é de 31%, com relação a outra quase, onnde errou bastante, temos 32% dos registros que o algoritmo conseguiu identificar corretamente, porém qando ele consegue identifica-lo a sua precisão é de 97%.
+
+[Continua](9%20-%20Refer%C3%AAncias%20complementares.md) $\Rightarrow$

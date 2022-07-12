@@ -50,7 +50,7 @@ Veremos um novo exemplo, onde chega um novo cliente no banco, onde possuim uma h
 
     $P(Baixo) = 0,0$
 
-> note que nos trÊs casos resultou em zero, e devido a isso não tem como classificar a qual classe esse cliente pertence, pois deu tudo zero. Para esses casos temos um artifício desse algoritmo que é chamado da **Correção Laplaciana**
+> note que nos três casos resultou em zero, e devido a isso não tem como classificar a qual classe esse cliente pertence, pois deu tudo zero. Para esses casos temos um artifício desse algoritmo que é chamado da **Correção Laplaciana**
 
 ## Correção Laplaciana
 

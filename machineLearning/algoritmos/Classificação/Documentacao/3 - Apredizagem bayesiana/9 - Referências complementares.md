@@ -5,3 +5,5 @@ Caso você queira aprender como o Naive Bayes é utilizado para classificação 
 Livro **Thoughtful Machine Learning** de **Matthew Kirk**: o capítulo 4 apresenta mais sobre a teoria do Naive Bayes e mostra como construir um classificador de spam
 
 Livro **Data Algorithms** de **Mahmoud Parsian**: o capítulo 14 apresenta explicações sobre a teoria do Naive Bayes
+
+Acesse o [notebook](https://github.com/Mruuk/Machine_Learning/blob/master/notebooks/Machine_Learning.ipynb)

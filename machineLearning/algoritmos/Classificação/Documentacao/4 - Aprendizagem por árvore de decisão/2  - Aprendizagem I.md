@@ -57,4 +57,4 @@ $Entropy(S) = \sum_{i=1}^{c} -p_i\log_2p_i$
 
 - atribuindo os valores na fórmula:
 
-$Entropy(S) = \frac{-6}{14} \cdot \log(\frac{6}{14};2)-\frac{-3}{14}\cdot \log(\frac{3}{14};2)-\frac{-5}{14}\cdot \log(\frac{5}{14};2) = 1,53$
+$Entropy(S) = \frac{-6}{14} \cdot \log(\frac{6}{14})_2-\frac{-3}{14}\cdot \log(\frac{3}{14})_2-\frac{-5}{14}\cdot \log(\frac{5}{14})_2 = 1,53$

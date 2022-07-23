@@ -70,7 +70,7 @@ Agora vamos gerar o grafico:
 tree.plot_tree(arvore_risco_credito)
 ```
 
-![tree-grafico-1]()
+![tree-grafico-1](img/tree-grafico-1.png)
 
 > Note que é exibido em formato de texto a árvore de decisão, e temos uma visualização um pouco melhor, e note que a raiz da árvore temos a renda, onde aqui está sendo chamada de `x[3]`
 
@@ -84,7 +84,7 @@ previsores = ['história de crédito', 'dívida', 'garantias', 'renda']
 tree.plot_tree(arvore_risco_credito, feature_names=previsores)
 ```
 
-![tree-grafico-2]()
+![tree-grafico-2](img/tree-grafico-2.png)
 
 - Vamos melhorar ainda mais essa visualização, para isso vamos definir uma figura e gerar uma variavel eixos, que são efetivamente os eixos, e passamos o `plt`, recurso esse da biblioteca `matplotlib`, e geramos um `subplot`, com o número de linhas, colunas e o seu tamanho.
 
@@ -94,7 +94,7 @@ figura, eixos = plt.subplots(nrows=1, ncols=1, figsize=(10,10))
 tree.plot_tree(arvore_risco_credito, feature_names=previsores)
 ```
 
-![tree-grafico-3]()
+![tree-grafico-3](img/tree-grafico-3.png)
 
 > note que agora a visualização está melhor
 
@@ -106,7 +106,7 @@ figura, eixos = plt.subplots(nrows=1, ncols=1, figsize=(10,10))
 tree.plot_tree(arvore_risco_credito, feature_names=previsores, class_names = arvore_risco_credito.classes_)
 ```
 
-![tree-grafico-4]()
+![tree-grafico-4](img/tree-grafico-4.png)
 
 > Agora temos as classes nomeadas para cada nó da árvore
 

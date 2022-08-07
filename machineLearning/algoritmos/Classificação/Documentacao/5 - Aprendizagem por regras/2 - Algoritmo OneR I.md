@@ -138,4 +138,4 @@ O que faremos agora é o cálculo do erro total, bastante simples, basta realiza
 
 O que faremos agora, é o mesmo para os demais atributos, para que então possamos edfinir qual deles será nosso atributo a ser trabalhado, asemelhando-se aos cálculos de entropia e ganho para uma árvore de decisão.
 
-[Continua](/algoritmos/Classifica%C3%A7%C3%A3o/Documentacao/5%20-%20Aprendizagem%20por%20regras/2.1%20-%20Algoritmo%20OneR%20II.md) $\Rightarrow$
+[Continua](2.1%20-%20Algoritmo%20OneR%20II.md) $\Rightarrow$

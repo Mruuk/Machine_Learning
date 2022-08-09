@@ -95,4 +95,5 @@ Ao finalizar o teste, temos algumas métricas, `CA`, nosso classification Accura
 - Random Sampling: Defino o tamanho do traning set e a quantidade de vezes que será repetido o teste e com isso tira a média, resultando no classification accuracy
 - Cross-validation: Define o numero de folds, onde o treinamento será realizado parte por parte, na base de dados inteira, isso oferece melhores resultados para o accuracy.
 
-[Continua](5.1%20-%20Base%20cr%C3%A9dito%20%2B%20Interface%20gr%C3%A1fica.md) $\Rightarrow$
+[Continua](6%20-%20Classificador%20base%20(majority%20learner)%20-%20base%20cr%C3%A9dito.md
+) $\Rightarrow$
